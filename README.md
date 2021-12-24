@@ -1,2 +1,2 @@
 # bl-leaderboard
-The official leaderboard for Bluelearn.in
+The Official leaderboard for Bluelearn.in
