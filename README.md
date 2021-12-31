@@ -24,7 +24,7 @@ Create an issue on this repo if you spot any bugs :^)
 ## Screenshots
 
 ![PC version](https://user-images.githubusercontent.com/76647618/147663869-05838720-de84-46ba-806f-e5e8b4df6a83.png)
-![Banner](https://user-images.githubusercontent.com/76647618/147341438-0741dcb7-cd1f-40ea-98d5-31997607e2a9.png)
+![Banners](https://user-images.githubusercontent.com/76647618/147820822-2bc65686-af89-4ecb-ab79-19871ee39e65.png)
 
 ## Technologies
 This project is created with:
@@ -36,8 +36,7 @@ This project is created with:
 
 ### Backend
 * Express
-* GraphQL
-* Apollo
+* ApolloGraphQL
 * MongoDB
 
 ## Setup
@@ -45,13 +44,13 @@ To run this project, install it locally using npm:
 
 ### Frontend
 ```
-$ cd ../client
+$ cd client
 $ npm install
 $ npm run dev
 ```
 ### Backend
 ```
-$ cd ../server
+$ cd server
 $ npm install
 $ npm run dev
 ```
