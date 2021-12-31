@@ -1,0 +1,13 @@
+mutation AllStudy($sort: String!) {
+  allStudy(options: { sort: $sort }) {
+    user_ID
+    total
+    daily
+    yesterday
+    weekly
+    monthly
+    stream
+    video
+    streak
+  }
+}

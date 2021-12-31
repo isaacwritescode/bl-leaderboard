@@ -1,0 +1,6 @@
+query AllLevel{
+  allLevel{
+    user_ID
+    xp
+  }
+}

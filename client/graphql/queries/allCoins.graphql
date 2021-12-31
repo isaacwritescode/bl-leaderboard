@@ -1,0 +1,6 @@
+query AllCoins{
+  allCoins {
+    user_ID
+    points
+  }
+}
