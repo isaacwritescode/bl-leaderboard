@@ -1,5 +1,5 @@
 # bl-leaderboard
-Official leaderboard for Bluelearn.in
+Leaderboard for Bluelearn.in (proof of concept)
 
 > BlueLearn is one of India's largest student communities that provides a one-stop platform for students to learn new skills, network with peers, apply for internships and grow as an individual
 
